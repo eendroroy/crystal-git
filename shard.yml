@@ -1,0 +1,13 @@
+name: git
+version: 0.1.0
+
+authors:
+  - indrajit <eendroroy@gmail.com>
+
+targets:
+  git:
+    main: src/git.cr
+
+crystal: 0.23.1
+
+license: MIT
